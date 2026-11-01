@@ -1,0 +1,6 @@
+{
+  "name": "Kisumu Edijim AirBnB - Luxury Apartments Kisumu",
+  "description": "Experience luxury short and long stay furnished apartments at Kisumu Edijim AirBnB, Cassabela Apartments, Tom Mboya Estate near Kenya Breweries, Kisumu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
